@@ -2,11 +2,11 @@
 Phone Number Info is a python program i.e, developed in python programming language using phonenumbers module and some user input.
 
 ### About the program
-- It's a basic python program which takes the user input and fetch Country and the Service Provider of that number from the phonenumbers module using geocoder and carrier.
+- It's a basic python program which takes the user input and fetch Country,the Service Provider of that number and the TimeZone of that Number from the phonenumbers module using geocoder,carrier,timezone.
 
 ### How to execute?
 - Just run the program and enter any number with the country code.
-- Result will be displayed as Country and the Service Provider of that number.
+- Result will be displayed as Country,the Service Provider and the Timezone of that number.
 
 
 ### Setup instructions
